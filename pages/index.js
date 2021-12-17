@@ -1,6 +1,7 @@
 export default function Home() {
   return (
     <>
+    
       <header className="masthead" style={{height:'100%'}}>
         <div className="container position-relative">
           <div className="row justify-content-center">
